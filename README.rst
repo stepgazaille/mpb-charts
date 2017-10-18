@@ -20,6 +20,7 @@ List of songs
 - `Nem um dia - Djavan <https://www.youtube.com/watch?v=kv8PsGhK0_I>`_
 - `Numa sala de reboco - Luiz Gonzaga <https://www.youtube.com/watch?v=UtpI8eB_2Gw>`_
 - `O Jornal da Morte - Roberto Silva <https://www.youtube.com/watch?v=Tidd-RjnxOI>`_
+- `Preta Pretinha - Novos Baianos <>`_
 - `Samurai - Djavan <https://www.youtube.com/watch?v=jodgxqHMijE>`_
 - `São Gonça - Seu Jorge <https://www.youtube.com/watch?v=Ll99lcYLMIU>`_
 - `Taj Mahal - Jorge Ben Jor <https://www.youtube.com/watch?v=v3xFKwH-EwI>`_
@@ -29,12 +30,12 @@ List of songs
 
 ToDo
 ====
-1. Preta Pretinha - Novos Baianos
-2. Desafinado
-3. Swing de Campo Grande - Novos Baianos
-4. Amiga da minha mulher - Seu Jorge
-5. Samba de uma nota só
-6. Wave
-7. Burguesinha - Seu Jorge
-8. Calice - Chico Buarque
-9. Preciso me encontrar - Cartola
+Futur transcriptions:
+- Desafinado - Joao Gilberto
+- Swing de Campo Grande - Novos Baianos
+- Amiga da minha mulher - Seu Jorge
+- Samba de uma nota só - Antônio Carlos Jobim
+- Wave - Antonio Carlos Jobim
+- Burguesinha - Seu Jorge
+- Calice - Chico Buarque
+- Preciso me encontrar - Cartola
