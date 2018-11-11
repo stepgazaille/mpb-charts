@@ -5,7 +5,7 @@ Brazilan pop lead sheets
 
 List of songs
 =============
-- `33 Destino de Dom Pedro II - Jovelina Perola Negra <https://www.youtube.com/watch?v=bcIaCGA28Kg>`_
+- `33 Destino de Dom Pedro II - Jovelina Perola Negra <https://www.youtube.com/watch?v=iQg4Uu8OrGk>`_
 - `Apesar de você - Chico Buarque <https://www.youtube.com/watch?v=33-bMTOlvx0>`_
 - `Balada do amor inabalável - Skank <https://www.youtube.com/watch?v=d0eYpjgAVF8>`_
 - `Brasil pandeiro - Novos Baianos <https://www.youtube.com/watch?v=0QuXQukFfUE>`_
