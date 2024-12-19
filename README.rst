@@ -30,7 +30,7 @@ List of songs
 ToDo
 ====
 - `Preta pretinha - Novos Baianos <https://youtu.be/0FVPQzKw9bk?si=YLjvYeLERQ9JBwKs>`_
-- `Swing de campo grande - Novos Baianos <https://youtu.be/58HGbfSjY1c?si=IKKYAjQbVcYuaNd4`_
-- `A menina dança - Novos Baianos <https://youtu.be/9HRX3SMy8FE?si=Et4nTHiQdaOldNDO`_
-- `Amiga da minha mulher - Seu Jorge <https://youtu.be/prNwKbJNL2g?si=33SW3TNIAfXCFt-J`_
-- `Preciso me encontrar - Cartola <https://youtu.be/56mu8KSUYqk?si=YLfKFUjbIspZuat6`_
+- `Swing de campo grande - Novos Baianos <https://youtu.be/58HGbfSjY1c?si=IKKYAjQbVcYuaNd4>`_
+- `A menina dança - Novos Baianos <https://youtu.be/9HRX3SMy8FE?si=Et4nTHiQdaOldNDO>`_
+- `Amiga da minha mulher - Seu Jorge <https://youtu.be/prNwKbJNL2g?si=33SW3TNIAfXCFt-J>`_
+- `Preciso me encontrar - Cartola <https://youtu.be/56mu8KSUYqk?si=YLfKFUjbIspZuat6>`_
