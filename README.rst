@@ -9,6 +9,7 @@ List of songs
 - `Apesar de você - Chico Buarque <https://www.youtube.com/watch?v=33-bMTOlvx0>`_
 - `Balada do amor inabalável - Skank <https://youtu.be/ofVvN1iFWeI?si=uNGgJZgoR4XXR4La>`_
 - `Brasil pandeiro - Novos Baianos <https://www.youtube.com/watch?v=0QuXQukFfUE>`_
+- `Burguesinha - Seu Jorge <https://youtu.be/PJkQtr5TRaA?si=h4RdlqHiaPt0Cm8y>`_
 - `Carolina - Seu Jorge <https://www.youtube.com/watch?v=VwBIVWX8YtQ>`_
 - `Eu e você sempre - Jorge Aragão <https://www.youtube.com/watch?v=A83Wy6NG00c>`_
 - `Ex amor - Martinho da Vila <https://www.youtube.com/watch?v=ZHaDUBQu2FA>`_
